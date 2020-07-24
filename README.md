@@ -1,3 +1,15 @@
 # CQlift
 
-A description of this package.
+Fork of https://github.com/Longhanks/qlift-c-api
+
+
+### License
+
+#### This Project
+
+MIT
+
+#### Verdigris
+
+LGPLv3
+
