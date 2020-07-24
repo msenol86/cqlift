@@ -1,4 +1,4 @@
-module CQlift {
+module CQlift [system] {
     header "./qlift-c-api.h"
     link "qlift-c-api"
     export *
